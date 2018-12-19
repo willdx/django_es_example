@@ -44,12 +44,9 @@ http://localhost:8000/api/user/
 
 ![sudents_demo_add_user](http://iwillb.imdancer.com/sudents_demo_add_user.png)
 
-
 **search user data**
 
-http://localhost:8000/search/?keyword=admin
-
-![django_es_example_search](http://iwillb.imdancer.com/django_es_example_search.png)
+![django_es_example_search](http://iwillb.imdancer.com/student_demo_search.png)
 
 
 
