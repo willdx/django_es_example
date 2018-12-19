@@ -1,0 +1,5 @@
+# ElasticSearch
+# ------------------------------------------------------------------------------
+ES_HOST=elasticsearch
+ES_PORT=9200
+ES_DOMAIN=http://elasticsearch:9200
